@@ -1,4 +1,4 @@
-## Opa!!! me chamo Wellington Lopes e sou desenvolvedor Back-end PHP!! 
+## Opa!!! me chamo Wellington Lopes e sou desenvolvedor Back-end PHP | Laravel !! 
 <div align="center">
   <a href="https://github.com/WellyOfGod">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WellyOfGod&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
